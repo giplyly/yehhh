@@ -1,0 +1,15 @@
+{
+  "name": "zxgip-guard-bot",
+  "version": "1.0.0",
+  "description": "Telegram Group Management Bot with anti-link, anti-promo, anti-spam, and admin features.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "zxgip21",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.12.2",
+    "sqlite3": "^5.1.6"
+  }
+}
